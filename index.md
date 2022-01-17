@@ -1,12 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to GraphEvoPR
 
-You can use the [editor on GitHub](https://github.com/vijaybw/graphevopr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Data
+Data : https://github.com/vijaybw/graphevopr/blob/main/data.xlsx
 
 ```markdown
 
