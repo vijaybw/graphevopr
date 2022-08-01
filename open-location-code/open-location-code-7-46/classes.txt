@@ -1,0 +1,6 @@
+com.google.openlocationcode.OpenLocationCode
+com.google.openlocationcode.tests.PrecisionTest
+com.google.openlocationcode.OpenLocationCode.CodeArea
+com.google.openlocationcode.tests.EncodingTest
+com.google.openlocationcode.tests.ShorteningTest
+com.google.openlocationcode.tests.ValidityTest

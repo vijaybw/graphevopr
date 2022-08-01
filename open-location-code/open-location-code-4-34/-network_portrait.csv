@@ -1,0 +1,7 @@
+class_name,new,portrait
+com.google.openlocationcode.OpenLocationCode.CodeArea,1,
+com.google.openlocationcode.OpenLocationCode,1,
+com.google.openlocationcode.tests.EncodingTest,1,
+com.google.openlocationcode.tests.PrecisionTest,1,
+com.google.openlocationcode.tests.ShorteningTest,1,
+com.google.openlocationcode.tests.ValidityTest,1,

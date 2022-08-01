@@ -1,0 +1,6 @@
+codes.plus.OpenLocationCode.CodeArea
+codes.plus.OpenLocationCode
+codes.plus.tests.EncodingTest
+codes.plus.tests.PrecisionTest
+codes.plus.tests.ShorteningTest
+codes.plus.tests.ValidityTest
