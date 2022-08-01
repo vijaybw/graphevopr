@@ -1,6 +1,4 @@
 ## Welcome to GraphEvoPR
 
-Data : https://github.com/vijaybw/graphevopr/blob/main/data.xlsx
-
-```markdown
+Anonymized repo : https://anonymous.4open.science/r/graphevopr-72A9
 
